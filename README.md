@@ -71,7 +71,15 @@ Sebagai Guru BK, Anda memiliki akses penuh untuk:
 
 ### Lupa Password?
 
-Hubungi Administrator sistem untuk melakukan reset password.
+Sistem APPEM sudah menyediakan fitur **Reset Password** secara mandiri.
+
+1. Klik tautan **Lupa Password?** pada halaman login
+2. Masukkan **alamat email** yang terdaftar pada akun Anda
+3. Cek kotak masuk email Anda dan ikuti tautan reset yang dikirimkan
+4. Buat password baru dan login kembali
+
+> [!IMPORTANT]
+> Pastikan alamat email yang terdaftar di akun Anda **masih aktif dan dapat diakses**. Jika email tidak aktif atau tidak terdaftar, hubungi Administrator sistem untuk bantuan lebih lanjut.
 
 ---
 
